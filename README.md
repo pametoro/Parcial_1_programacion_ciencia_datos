@@ -1,6 +1,8 @@
 # Parcial_1_programacion_ciencia_datos
 
 Introducción
+
+
 En el ámbito de la ciencia de datos, la capacidad de transformar registros crudos en estructuras de información optimizadas es fundamental para garantizar modelos predictivos precisos. El presente estudio técnico se enfoca en el análisis, limpieza y transformación del conjunto de datos Food_Preference.csv, el cual documenta las tendencias de consumo alimentario de una población diversa, integrando dimensiones demográficas y preferencias de dieta.
 
 El desarrollo de este trabajo no solo se limita a la exploración estadística, sino que implementa una arquitectura de procesamiento basada en las siguientes técnicas de optimización:
