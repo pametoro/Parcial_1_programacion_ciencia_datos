@@ -1,4 +1,4 @@
-# Parcial_1_programacion_ciencia_datos
+# Parcial_1_programación_ciencia_datos
 
 Introducción
 
